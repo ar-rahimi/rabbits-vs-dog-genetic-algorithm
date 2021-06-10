@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.d
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+cmake-build-debug
